@@ -2,7 +2,9 @@
 
 Goal:
 
-- To find out why recursive function of factorial sometimes run faster in 3.13
+- To find out why recursive function of factorial sometimes run faster in certain Python version
+
+Requirements: To have 3.13, 3.12, and 3.10 installed.
 
 To run:
 
